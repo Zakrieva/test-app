@@ -2,4 +2,4 @@
 // Адрес менять не нужно.
 
 export const MATCHES_URL =
-  "https://raw.githubusercontent.com/zakrieva/test-app/test/data/matches.json";
+  "https://raw.githubusercontent.com/zakrieva/test-app/main/data/matches.json";
